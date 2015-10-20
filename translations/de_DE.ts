@@ -48,7 +48,7 @@
     <name>BrowserOxideWebView</name>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neuer Tab</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neuer Tab</translation>
     </message>
     <message>
         <source>History</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Add to dash</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zur Startseite hinzufügen</translation>
     </message>
     <message>
         <source>View source</source>
@@ -98,7 +98,7 @@
     <name>BrowserWebView</name>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neuer Tab</translation>
     </message>
     <message>
         <source>Settings</source>
